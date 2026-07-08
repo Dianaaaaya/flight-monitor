@@ -1,3 +1,15 @@
 {
-  "rules": {}
+  "rules": {
+    "JFK-LGA-EWR_SEA_2026-08-17_2026-08-22": {
+      "history": [
+        {
+          "ts": "2026-07-08T00:46:14.308283+00:00",
+          "price": 382.0
+        }
+      ],
+      "min_price": 382.0,
+      "last_price": 382.0,
+      "last_notified": {}
+    }
+  }
 }
